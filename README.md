@@ -38,6 +38,7 @@
         <p>&copy; 2023 Monica Dostie's Jewelry Shop</p>
     </footer>
 </body>
+<html>
 <head>
     <meta charset="UTF-8">
     <title>Bijoux en ligne</title>
@@ -109,4 +110,5 @@
         openTab('colliers');
     </script>
 </body>
+<html>
 </html>
